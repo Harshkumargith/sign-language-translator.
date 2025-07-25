@@ -67,8 +67,6 @@ LCD Line 2: LETTER: A
 **Harsh Kumar**  
 GitHub: https://github.com/
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 
